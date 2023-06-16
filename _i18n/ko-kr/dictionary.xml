@@ -730,14 +730,6 @@
   <block id="ee50d481128d1543f9945b4a4f3fbe9d" category="paragraph">공기 박형 설치의 경우 다음 목록은 Astra Trident를 설치하는 데 필요한 컨테이너 이미지의 참조입니다. 를 사용합니다<block ref="4ebf280824868255c952dc529072ecb9" prefix=" " category="inline-code"></block> 명령을 사용하여 필요한 컨테이너 이미지 목록을 확인합니다.</block>
   <block id="aa92c4c233bc01609d957e469736b699" category="cell">컨테이너 이미지</block>
   <block id="4b977ef7367155e20f954fe7b0a00c4f" category="cell">v1.20.0</block>
-  <block id="0da21d7acd742e8c3833231cf3efcc96" category="list-text">NetApp/트리덴트: 22.10.0</block>
-  <block id="5a4f48c8cc996f58dfb69f6cb6322641" category="list-text">NetApp/트리덴트 - AutoSupport: 22.10</block>
-  <block id="205eb4d1f3dd4b4a46f8ebda17a6987a" category="list-text">K8s.IO/SIG - 스토리지/CSI - 공급자: v3.3.0</block>
-  <block id="5a072765b8872c7a5b301bf26a7bcf6f" category="list-text">K8s.IO/SIG-storage/CSI-attacher:v4.0.0</block>
-  <block id="5f4c44794a240124005ae51a462206a1" category="list-text">k8s.IO/SIG-storage/CSI-resizer: v1.6.0</block>
-  <block id="a33ee60bce887d9934eaa4c257ba369e" category="list-text">K8s.IO/SIG-storage/CSI-snapshotter:v3.0.3</block>
-  <block id="b5df2cef5efcb0eb27dd766a59e4b345" category="list-text">K8s.IO/SIG-storage/CSI-node-driver-registrar: v2.5.1</block>
-  <block id="943da146fd38a6a4ba903d9f8e884b91" category="list-text">NetApp/트리덴트 - 작업자: 22.10.0(옵션)</block>
   <block id="6f0b081bef5e745ef2429ef74472d9bd" category="cell">v1.21.0</block>
   <block id="681d715b456f6d29a501b8f132e941a1" category="cell">v1.22.0</block>
   <block id="73e93ad328287e5ce4c06228cfdba2bf" category="cell">v1.23.0</block>
@@ -3465,4 +3457,12 @@
   <block id="74e5369c29dfffd1c167b754a55ac30d" category="sidebar">ANF 구성 옵션 및 예</block>
   <block id="ee7bdcae9fbde9976cf62161a22434cf" category="sidebar">ONTAP NAS 드라이버를 사용하여 백엔드를 구성할 준비를 합니다</block>
   <block id="f18a50f02f48551895d57b81dd288142" category="sidebar">네임스페이스 전체에서 NFS 볼륨을 공유합니다</block>
+  <block id="32b940ac399808955a03541b4251cb7d" category="list-text">Docker.IO/NetApp/트리덴트: 22.10.0</block>
+  <block id="e97dab2221ac1664a5abe28054f6f063" category="list-text">Docker.IO/NetApp/트리덴트 - 자동 지원: 22.10</block>
+  <block id="74d7347d2d8b4324553eb6d881988fbd" category="list-text">registry.k8s.io/sig-storage/scsi-v3.3.3.0</block>
+  <block id="e42bb43c53b774cb18202277627ded6a" category="list-text">registry.k8s.io/SIG-storage/CSI-attacher:v4.0.0</block>
+  <block id="b21bbc0cbede5460307bb0a474f8606c" category="list-text">registry.k8s.io/SIG-storage/CSI-resizer: v1.6.0</block>
+  <block id="63ecb6130cad9815e1932d6c6dd2fd48" category="list-text">registry.k8s.io/SIG-storage/CSI-snapshotter:v3.0.3</block>
+  <block id="730890f7a33619a5f272f2ed9a434ed0" category="list-text">registry.k8s.io/SIG-storage/CSI-node-driver-registrar: v2.5.1</block>
+  <block id="4dfe67785205ed3d7f2cb3ca8eafaa68" category="list-text">Docker.IO/NetApp/트리덴트 - 운영자: 22.10.0(옵션)</block>
 </blocks>
