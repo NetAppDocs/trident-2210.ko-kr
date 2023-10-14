@@ -188,7 +188,7 @@ Astra Trident는 백엔드 구성에서 사용하기 전에 스토리지 시스�
 * registry.k8s.io/sig-storage/scsi-v3.3.3.0
 * registry.k8s.io/SIG-storage/CSI-attacher:v4.0.0
 * registry.k8s.io/SIG-storage/CSI-resizer: v1.6.0
-* registry.k8s.io/SIG-storage/CSI-snapshotter:v3.0.3
+* 레지스트리.k8s.io/sig-storage/csi-shotter:v6.1.0
 * registry.k8s.io/SIG-storage/CSI-node-driver-registrar: v2.5.1
 * Docker.IO/NetApp/트리덴트 - 운영자: 22.10.0(옵션)
 
@@ -201,7 +201,7 @@ Astra Trident는 백엔드 구성에서 사용하기 전에 스토리지 시스�
 * registry.k8s.io/sig-storage/scsi-v3.3.3.0
 * registry.k8s.io/SIG-storage/CSI-attacher:v4.0.0
 * registry.k8s.io/SIG-storage/CSI-resizer: v1.6.0
-* registry.k8s.io/SIG-storage/CSI-snapshotter:v3.0.3
+* 레지스트리.k8s.io/sig-storage/csi-shotter:v6.1.0
 * registry.k8s.io/SIG-storage/CSI-node-driver-registrar: v2.5.1
 * Docker.IO/NetApp/트리덴트 - 운영자: 22.10.0(옵션)
 
@@ -214,7 +214,7 @@ Astra Trident는 백엔드 구성에서 사용하기 전에 스토리지 시스�
 * registry.k8s.io/sig-storage/scsi-v3.3.3.0
 * registry.k8s.io/SIG-storage/CSI-attacher:v4.0.0
 * registry.k8s.io/SIG-storage/CSI-resizer: v1.6.0
-* registry.k8s.io/SIG-storage/CSI-snapshotter:v3.0.3
+* 레지스트리.k8s.io/sig-storage/csi-shotter:v6.1.0
 * registry.k8s.io/SIG-storage/CSI-node-driver-registrar: v2.5.1
 * Docker.IO/NetApp/트리덴트 - 운영자: 22.10.0(옵션)
 
@@ -227,7 +227,7 @@ Astra Trident는 백엔드 구성에서 사용하기 전에 스토리지 시스�
 * registry.k8s.io/sig-storage/scsi-v3.3.3.0
 * registry.k8s.io/SIG-storage/CSI-attacher:v4.0.0
 * registry.k8s.io/SIG-storage/CSI-resizer: v1.6.0
-* registry.k8s.io/SIG-storage/CSI-snapshotter:v3.0.3
+* 레지스트리.k8s.io/sig-storage/csi-shotter:v6.1.0
 * registry.k8s.io/SIG-storage/CSI-node-driver-registrar: v2.5.1
 * Docker.IO/NetApp/트리덴트 - 운영자: 22.10.0(옵션)
 
@@ -240,7 +240,7 @@ Astra Trident는 백엔드 구성에서 사용하기 전에 스토리지 시스�
 * registry.k8s.io/sig-storage/scsi-v3.3.3.0
 * registry.k8s.io/SIG-storage/CSI-attacher:v4.0.0
 * registry.k8s.io/SIG-storage/CSI-resizer: v1.6.0
-* registry.k8s.io/SIG-storage/CSI-snapshotter:v3.0.3
+* 레지스트리.k8s.io/sig-storage/csi-shotter:v6.1.0
 * registry.k8s.io/SIG-storage/CSI-node-driver-registrar: v2.5.1
 * Docker.IO/NetApp/트리덴트 - 운영자: 22.10.0(옵션)
 
@@ -253,7 +253,7 @@ Astra Trident는 백엔드 구성에서 사용하기 전에 스토리지 시스�
 * registry.k8s.io/sig-storage/scsi-v3.3.3.0
 * registry.k8s.io/SIG-storage/CSI-attacher:v4.0.0
 * registry.k8s.io/SIG-storage/CSI-resizer: v1.6.0
-* registry.k8s.io/SIG-storage/CSI-snapshotter:v3.0.3
+* 레지스트리.k8s.io/sig-storage/csi-shotter:v6.1.0
 * registry.k8s.io/SIG-storage/CSI-node-driver-registrar: v2.5.1
 * Docker.IO/NetApp/트리덴트 - 운영자: 22.10.0(옵션)
 

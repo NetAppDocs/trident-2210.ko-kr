@@ -3452,7 +3452,6 @@
   <block id="74d7347d2d8b4324553eb6d881988fbd" category="list-text">registry.k8s.io/sig-storage/scsi-v3.3.3.0</block>
   <block id="e42bb43c53b774cb18202277627ded6a" category="list-text">registry.k8s.io/SIG-storage/CSI-attacher:v4.0.0</block>
   <block id="b21bbc0cbede5460307bb0a474f8606c" category="list-text">registry.k8s.io/SIG-storage/CSI-resizer: v1.6.0</block>
-  <block id="63ecb6130cad9815e1932d6c6dd2fd48" category="list-text">registry.k8s.io/SIG-storage/CSI-snapshotter:v3.0.3</block>
   <block id="730890f7a33619a5f272f2ed9a434ed0" category="list-text">registry.k8s.io/SIG-storage/CSI-node-driver-registrar: v2.5.1</block>
   <block id="4dfe67785205ed3d7f2cb3ca8eafaa68" category="list-text">Docker.IO/NetApp/트리덴트 - 운영자: 22.10.0(옵션)</block>
   <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
@@ -3468,4 +3467,5 @@
   <block id="1dedbfd605df8b562acc8f759a8e9acc" category="list-text">를 실행하는 Kubernetes 클러스터 <block ref="229e1052bb9ecd8cf2680d6f44691174" category="inline-link-macro-rx"></block></block>
   <block id="daeed8b959c87c723c9a96bfb5a96851" category="list-text">에서 Trident를 사용할 때 일반적으로 발생할 수 있는 문제입니다<block ref="24a785881ff1cdf191a2239811dc9597" category="inline-link-rx"></block> 테넌트 및 클라이언트 암호가 권한이 부족한 앱 등록에서 나오는 경우 입니다. Trident 요구사항의 전체 목록은 를 참조하십시오 <block ref="e08bee233140d24c18d95885ad07d2bb" category="inline-link-macro-rx"></block> 구성.</block>
   <block id="3e9e53a916f99df7d6286c52e3b7a9d5" category="paragraph">기본적으로 Astra Trident는 Kubernetes의 마운트 옵션을 아무 값으로도 설정하지 않습니다. Kubernetes 스토리지 클래스에서 마운트 옵션을 지정하려면 지정된 예제를 따르십시오<block ref="fe27d7e6fa26e46ae96377664e7dbdff" category="inline-link-rx"></block>.</block>
+  <block id="c60d7bfd38dc514d4e2eaa66c5a0a5fd" category="list-text">레지스트리.k8s.io/sig-storage/csi-shotter:v6.1.0</block>
 </blocks>
